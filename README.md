@@ -12,8 +12,8 @@ Prerequisites:
 Script Modification:
 ====================
 
-1. Enter the username for which you want to fuzz the password in line 5.
-2. Enter the end point URL in line7.
+1. Enter the username for which you want to fuzz the password in line 6.
+2. Enter the end point URL in line 8.
 
 
 How to use the script:

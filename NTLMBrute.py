@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 
 dk=open("dict.txt","r").read().split('\n')
